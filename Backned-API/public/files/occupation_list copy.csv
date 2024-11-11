@@ -1,0 +1,141 @@
+Name,Class,,,,,,Group
+Steel Furniture Mistry,2,2,2,2,2,2,Mistry
+Rod Mistry/Rod cutter,2,2,2,2,2,2,Mistry
+Mason-ordinary,4,2,2,2,2,2,Mistry
+Painters ,2,2,2,2,2,2,Mistry
+Carpenter,2,2,2,2,2,2,Mistry
+Gas welder,2,2,2,2,2,2,Welders
+Electrical welders ,2,2,N/A,2,0,N/A,Welders
+Ordinary workers,2,2,2,2,2,2,Workers
+(abroad),2,2,2,2,2,2,Workers
+Jute Mills workers,4,2,2,2,2,2,Workers
+Factory workers,2,2,0,N/A,N/A,2,Workers
+Coastal & deep sea fishing,4,4,4,4,4,4,Fishermen
+River fishing,2,2,2,2,2,2,Fishermen
+Pond & others ,0,N/A,N/A,N/A,0,N/A,Fishermen
+Fish Business ,0,N/A,N/A,N/A,0,N/A,Fishermen
+"Heavy-Truck, Bus, Mini Bus",2,2,2,2,2,2,Drivers & helper 
+"Light-Car, Micro Bus ",2,N/A,2,N/A,0,2,Drivers & helper 
+"Auto Rickshaws, Scoters, Tempo van",4,4,4,Declined,4,4,Drivers & helper 
+Van/Cart Pullers   ,-1,4,4,Declined,4,4,Drivers & helper 
+Rickshaws Pullers,4,4,4,Declined,4,4,Drivers & helper 
+Officer,0,N/A,N/A,N/A,0,N/A,Armed force (army)
+Others ranks,0,N/A,N/A,N/A,0,2,Armed force (army)
+Constable,2,2,2,2,2,2,Police
+Armed Police,2,2,2,2,2,2,Police
+Sergeant/Sub-Inspector,2,2,2,2,2,2,Police
+Officer,0,N/A,N/A,N/A,0,2,Police
+Soldier,0,N/A,N/A,N/A,0,2,Navy
+Others ranks,0,N/A,N/A,N/A,0,2,Navy
+Ship technician & other workers ,2,N/A,N/A,N/A,0,2,Navy
+Diver (river & pond)   ,4,4,4,4,4,4,Navy
+Officer & others ,0,N/A,N/A,N/A,0,N/A,Air force (Non Aviation)
+Commercial aviation & private aircraft.  ,0,Based on Aviation Questionnaire,Based on Aviation Questionnaire,Based on Aviation Questionnaire,Refer to Head Office,,Air force (Aviation)
+Officers  ,0,N/A,N/A,N/A,0,N/A,Forest
+Employees,0,N/A,N/A,N/A,0,N/A,Forest
+Workers/Guards,2,2,2,2,2,2,Forest
+Lumber man  ,2,2,2,2,2,2,Forest
+Electrician-Worker climbing poles (under the voltage 400 Or over)  ,4,2,2,2,2,4,Electrical Industry
+Electrician-workers in houses or office if voltage is less than 400 ,2,N/A,N/A,N/A,0,2,Electrical Industry
+Electrician-works as a linesman ,4,2,2,2,2,2,Electrical Industry
+Blacksmiths (Kvgvi),2,2,2,2,2,2,
+Potter  (Kygvi),2,2,2,2,2,2,
+Butcher   (KkvB),2,2,2.5,2.5,2,2.5,
+Cattle Businessmen ,0,N/A,N/A,N/A,0,N/A,
+Gram police/Night Guard,2,2,2,2,2,2,
+Goldsmith  (¯^b©Kvi),2,N/A,N/A,N/A,0,N/A,
+Loom operator (ZvuZx),2,2,N/A,N/A,0,N/A,
+Auto Rikshaw repairer,2,2,N/A,N/A,0,N/A,
+Handicraft workers,2,N/A,N/A,N/A,0,N/A,
+Cook,2,2,2,0,N/A,N/A,
+Tailors,0,N/A,N/A,N/A,0,N/A,
+Wood Business man,0,N/A,N/A,N/A,2,N/A,
+Contractors (Ordinary),0,N/A,N/A,N/A,2,N/A,
+Agriculture/Farmer,0,N/A,N/A,N/A,N/A,N/A,
+Circus Artist ,-1,Declined,Declined,Declined,Declined,0,
+Cinema making -Dumy,-1,Declined,Declined,Declined,Declined,0,
+Body guard,-1,0,0,0,N/A,0,
+Guide (Mountain) ,-1,0,0,0,N/A,0,
+Boat man ,2,2,2,2,2,2,
+Bleachers,2,2,2,2,2,0,
+Mining (Underground worker),-1,0,0,0,Declined,0,
+Boilers: Boiler Makers & Attendants ,2,2,2,2,2,0,
+Grinders and Mixers,0,0,0,0,N/A,2,Brick Manufacture
+Firemen and Drawers  ,2,2,2,2,2,2,Brick Manufacture
+All workers including painters  ,4,4,4,4,4,0,Bridge workers
+Masons and other workers  ,2,2,2,2,2,0,Building Construction
+Drillers ,4,4,2,4,4,0,Building Construction
+Wood cutter ,4,4,4,4,4,0,Saw Mills
+Assistant ,2,2,2,2,2,0,Saw Mills
+Lighter men ,2,2,2,3,2,0,Dock Employees
+Freight handlers ,2,2,2,2,2,0,Dock Employees
+Salvage and Reconditioning Dept. Employees who working within 50 yds.,-1,Declined,Declined,Declined,Declined,,Explosives & Munitions Manufacture
+Employers doing clerical and administrative work and chemists only testing and sample ,0,0,0,0,N/A,0,Explosives & Munitions Manufacture
+Weightier acid & others workers ,2,2,2,2,2,2,Fertiliser Manufacture
+Others Officers   ,0,0,0,0,2,N/A,Fertiliser Manufacture
+Firefighting officers & other workers ,3,3,3,3,3,3,Fire Brigade
+Supervisor,0,0,0,0,N/A,3,Fire Brigade
+Flour & grain Mills (Work men),2,2,2,0,2,,
+Workers in cold rooms,2,2,2,0,2,0,Ice & Refrigerator Industry 
+Others ,0,0,0,0,N/A,0,Ice & Refrigerator Industry 
+Deep sea Divers,-1,Declined,Declined,0,Declined,0,
+Worker handling raw skins ,2,2,2,0,2,2,Leather Industry
+Worker working to process the raw skins in to Ripe skins,2,2,2,0,2,N/A,Leather Industry
+"Dyers, Mixers, Coaters ",2,2,2,0,2,N/A,Leather Industry
+Leather Businessman,0,N/A,N/A,0,0,N/A,Leather Industry
+Godown workers  ,2,2,2,0,2,N/A,Leather Industry
+Plumbers & pipe fitters ,2,4,2,0,2,2,
+Compositors ,2,2,2,0,2,0,Printing & publishing
+"Brakeman , Bridge Inspectors, Coalman, Drivers ",2,2,2,0,2,0,Railways
+"Engine cleaner, Sweepers,  Fright receiver, etc",2,2,2,0,2,0,Railways
+"Flagman, gateman, guards, lines men, porter & freight & handers signalman  ",2,2,2,0,2,2,Railways
+Section foreman & as same as workers,2,2,2,0,2,0,Railways
+"Laborers, cleaners & Inspectors of  underground duties  ",-1,Declined,Declined,0,Declined,0,Sewers & sewerage Disposals
+Others   ,0,0,0,0,N/A,0,Sewers & sewerage Disposals
+Foremen  ,2,0,0,0,N/A,0,Acid Manufacture
+Workers including Sulphur  burners ,3,0,0,0,N/A,0,Acid Manufacture
+Lead Burners ,-1,Declined,Declined,0,Declined,0,Acid Manufacture
+"Pan men & Furnace men,",2,2,2,0,2,0,Soap Manufacture
+Others ,0,0,0,0,N/A,0,Soap Manufacture
+Office premises & private houses,2,N/A,N/A,0,0,N/A,Sweepers
+"Municipal street, city corporation street & Hospital sweepers     ",2,2,2,0,2,2,Sweepers
+"Textile Industry including Jute Mills: (Who involve dust, heat, boiling, liquid acids, dyes etc)",2,4,2,0,2,4,
+Sweepers ,4,4,4,0,4,4,Textile Mills 
+Workers in Blow room ,4,4,4,0,4,4,Textile Mills 
+Biri workers,4,2,2,0,2,0,Tobacco Industry
+Barbers,2,2,0,0,2,0,
+Employees in x-ray & Radium department assistant working with x-rays specialist ,2,3,3,0,3,0,X-Ray Radiologists
+Poultry farm worker,2,0,0,0,N/A,0,
+Dairy farm worker,2,0,0,0,N/A,0,
+Labour,2,0,0,0,2,0,
+Sweets Maker,2,2,2,2,2,0,
+Lift Operator,2,0,0,2,N/A,0,
+Officers/Supervisors,0,N/A,N/A,N/A,2,N/A,Garments Industry
+Sewing Machine operator,2,2,2,2,2,2,Garments Industry
+Cutting Master,2,2,2,2,2,2,Garments Industry
+Engin room sareng,2,2,2,2,2,0, Lonch/Steamboat/Cargo lonch
+Engine room technician & assistant,2,2,2,2,2,0, Lonch/Steamboat/Cargo lonch
+Officer,0,N/A,N/A,N/A,0,0,Ansar/BGB
+Solder/Guard,2,2,2,2,2,0,Ansar/BGB
+Cyclist,-1,Declined,Declined,Declined,Declined,0,Professiona Players
+Boxer,-1,Declined,Declined,Declined,Declined,0,Professiona Players
+Restling,-1,Declined,Declined,Declined,Declined,0,Professiona Players
+Gymnastic Artist,-1,Declined,Declined,Declined,Declined,0,Professiona Players
+Football player,0,0,0,0,N/A,0,Professiona Players
+Cricketer,0,0,0,0,N/A,0,Professiona Players
+High Jump/Long Jump,-1,0,0,0,N/A,0,Professiona Players
+Weight Lifting,-1,0,0,0,N/A,0,Professiona Players
+Architect,0,0,0,0,N/A,0,
+Flight Engineer,4,0,0,0,N/A,0,
+Captan of Ship,4,0,0,0,N/A,0,
+Merine Engineer,4,0,0,0,N/A,0,
+Chemical Engineer (Working in oil/gas mine),4,0,0,0,N/A,0,
+Civil Engineer,3,0,0,0,N/A,0,
+Site/Construction supervisor,4,0,0,0,N/A,0,
+Chemist (Working with non-explosive chemicals),0,0,0,0,N/A,0,
+Pharmacist,0,0,0,0,N/A,0,
+Microbiologist,0,0,0,0,N/A,0,
+Technicians,4,0,0,0,N/A,0,Employees of Nuclear plant
+Supervisors/Workers/Operators,4,0,0,0,N/A,0,Employees of Nuclear plant
+Officers,2,0,0,0,N/A,0,Employees of Nuclear plant
+Housewife,1,,,,,,

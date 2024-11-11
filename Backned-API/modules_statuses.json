@@ -1,0 +1,17 @@
+{
+    "Hrm": true,
+    "Configuration": true,
+    "Proposal": true,
+    "Payment": true,
+    "Accounting": true,
+    "Worksheet": true,
+    "Authorization": true,
+    "Auth": true,
+    "Customer": true,
+    "Collection": true,
+    "Underwriting": true,
+    "Dashboard": true,
+    "Stamp": true,
+    "Sms": true,
+    "Expense": true
+}

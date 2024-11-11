@@ -1,0 +1,2 @@
+export const OPEN_SIDEBAR      = "OPEN_SIDEBAR";
+export const SIDEBAR_MENU_LIST = "SIDEBAR_MENU_LIST";
