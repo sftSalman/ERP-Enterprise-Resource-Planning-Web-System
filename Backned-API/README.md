@@ -1,12 +1,3 @@
-## Hr Admin REST API
-
-### Setup
-
-```bash
-git clone https://github.com/abirahmad/hr-admin-api.git
-cd hr-admin-api
-composer install
-```
 
 ### Create database
 
